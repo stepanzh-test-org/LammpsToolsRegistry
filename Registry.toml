@@ -1,0 +1,6 @@
+name = "LammpsToolsRegistry"
+uuid = "9ba7b400-06b8-4772-af72-fd1b073484ff"
+repo = "git@github.com:stepanzh-test-org/LammpsToolsRegistry.git"
+description = "Tools to pre-process and post-process files for LAMMPS (https://lammps.org)"
+
+[packages]
