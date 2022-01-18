@@ -1,0 +1,7 @@
+name = "LammpsToolsRegistry"
+uuid = "9ba7b400-06b8-4772-af72-fd1b073484ff"
+repo = "git@github.com:stepanzh-test-org/LammpsToolsRegistry.git"
+description = "Tools to pre-process and post-process files for LAMMPS (https://lammps.org)"
+
+[packages]
+5c105ad6-9484-420b-a8a5-9e6c729a07dc = { name = "LigParGen2LAMMPS", path = "L/LigParGen2LAMMPS" }

@@ -1,0 +1,3 @@
+name = "LigParGen2LAMMPS"
+uuid = "5c105ad6-9484-420b-a8a5-9e6c729a07dc"
+repo = "git@github.com:vvpisarev/LigParGen2LAMMPS.jl.git"
