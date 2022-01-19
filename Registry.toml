@@ -4,4 +4,5 @@ repo = "git@github.com:stepanzh-test-org/LammpsToolsRegistry.git"
 description = "Tools to pre-process and post-process files for LAMMPS (https://lammps.org)"
 
 [packages]
+2c865624-12c9-4482-b52b-7e3f34df3081 = { name = "LammpsTools", path = "L/LammpsTools" }
 5c105ad6-9484-420b-a8a5-9e6c729a07dc = { name = "LigParGen2LAMMPS", path = "L/LigParGen2LAMMPS" }
